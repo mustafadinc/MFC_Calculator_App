@@ -1,0 +1,19 @@
+﻿  MyCalc.cpp
+  MyCalcDlg.cpp
+  Kod Üretiliyor...
+C:\Users\Mustafa\source\repos\MyCalc\MyCalc\MyCalcDlg.cpp(384,18): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/MyCalcDlg.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Mustafa\source\repos\MyCalc\MyCalc\MyCalcDlg.cpp(399,18): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/MyCalcDlg.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Mustafa\source\repos\MyCalc\MyCalc\MyCalcDlg.cpp(412,18): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/MyCalcDlg.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Mustafa\source\repos\MyCalc\MyCalc\MyCalcDlg.cpp(427,18): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/MyCalcDlg.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Mustafa\source\repos\MyCalc\MyCalc\MyCalcDlg.cpp(440,18): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/MyCalcDlg.cpp' kaynak dosyası derleniyor)
+  
+  MyCalc.vcxproj -> C:\Users\Mustafa\source\repos\MyCalc\x64\Debug\MyCalc.exe
